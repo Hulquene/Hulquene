@@ -12,9 +12,13 @@ Experiência na criação de sites dinâmicos, sistemas de gestão e integraçã
 💡 Habilidades Técnicas:
 
 Linguagens: Java, PHP, JavaScript, Python.
+
 Frameworks e Bibliotecas: Spring Boot, CodeIgniter, Bootstrap, jQuery.
+
 Banco de Dados: MySQL (8+), JDBC.
+
 Ferramentas: Docker, PlaySMS, RapidPro.
+
 Outros: Integração de SMS Gateways como Twilio, Nexmo, entre outros.
 
 💞️ Colaborações: Estou aberto a colaborar em projetos que envolvam desenvolvimento backend, APIs, sistemas de gestão ou otimização de processos em tecnologia.
