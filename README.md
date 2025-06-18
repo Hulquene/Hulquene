@@ -1,26 +1,51 @@
-👋 Olá, sou o Hulquene Roberto A. Ngola
-👀 Interesses: Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em criar soluções inovadoras e eficientes, desde sistemas de gestão a plataformas web e aplicações desktop.
+e linguagem mais atrativa para perfis como LinkedIn, GitHub ou portfólios pessoais:
 
-🌱 Aprendizado Atual: Estou aperfeiçoando minhas habilidades em Java (Spring Boot), PHP (CodeIgniter/Laravel) e expandindo meus conhecimentos em Python (Django) e React (nível iniciante). Tenho explorado boas práticas em desenvolvimento backend e fullstack.
+👋 Olá, sou Hulquene Roberto A. Ngola
+💻 Desenvolvedor de Software | Fundador da Okutonda | Entusiasta de Soluções Tecnológicas
+
+🚀 Sobre Mim:
+Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em criar soluções inovadoras e eficientes, atuando desde a concepção até a implementação de sistemas de gestão, plataformas web e aplicações desktop. Acredito na tecnologia como ferramenta de transformação e impacto positivo.
+
+🌱 Aprendizado Atual:
+Atualmente, estou aprimorando minhas habilidades com Java (Spring Boot), além de explorar boas práticas em desenvolvimento backend e fullstack. Também venho me dedicando ao estudo de Python com Django  e React  para ampliar meu leque de atuação.
 
 💼 Experiência Profissional:
-Sou desenvolvedor Web e Desktop com experiência sólida em PHP (CodeIgniter, Laravel) e Java (Spring Boot, Swing), com integração a bancos de dados MySQL e PostgreSQL.
-Fundador da Okutonda, onde desenvolvo soluções sob medida para empresas, incluindo sites dinâmicos, sistemas de gestão e integração com APIs e serviços de terceiros.
+Desenvolvedor Web e Desktop com experiência sólida em:
+
+PHP (CodeIgniter, Laravel)
+
+Java (Spring Boot, Java Swing)
+
+Integração com bancos de dados (MySQL, PostgreSQL)
+
+Fundador da Okutonda, startup voltada ao desenvolvimento de soluções sob medida e serviços tecnológicos.
+
+Desenvolvimento de sites institucionais, sistemas de gestão personalizados, integração com APIs e gateways SMS.
 
 💡 Habilidades Técnicas:
 
 Linguagens: PHP, Java, Python , JavaScript.
 
-Frameworks e Bibliotecas: Laravel, CodeIgniter, Spring Boot, Django, Bootstrap, jQuery, React.
+Frameworks e Bibliotecas: Laravel, CodeIgniter, Spring Boot, Django, Bootstrap, jQuery, React (nível iniciante)
 
-Banco de Dados: MySQL (8+), PostgreSQL, SQLite.
+Banco de Dados: MySQL (8+), PostgreSQL, SQLite
 
-Ferramentas e Plataformas: Docker, JDBC, PlaySMS, RapidPro, Cpanel, VS Code.
+Ferramentas e Tecnologias: Docker, JDBC, CPanel, PlaySMS, RapidPro, Git, VS Code
 
-Outros Conhecimentos: Integração de SMS Gateways (Twilio, Nexmo, entre outros), hospedagem em CPanel, configuração e gestão de servidores VPS.
+Integrações: SMS Gateways (Twilio, Nexmo, etc), APIs REST, Servidores VPS
 
-💞️ Colaborações:
-Estou aberto a colaborar em projetos voltados para desenvolvimento backend, sistemas de gestão, integração de APIs ou iniciativas web com React. Tenho interesse especial em participar de projetos que otimizem processos através da tecnologia.
+🤝 Colaborações e Interesse Profissional:
+Estou aberto a colaborar em projetos que envolvam:
 
-📫 Contato:
-Sinta-se à vontade para entrar em contato: hulquener@gmail.com
+Desenvolvimento Backend (Java, PHP, Python)
+
+Criação e manutenção de APIs RESTful
+
+Sistemas de gestão empresarial, educacional ou financeiro
+
+Otimização de processos e automações com foco em resultado
+
+📫 Entre em contato:
+📧 hulquener@gmail.com
+🌐 https://www.linkedin.com/in/hulquene-roberto-ngola-66b849227/
+🌐 
