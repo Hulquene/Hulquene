@@ -56,6 +56,9 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em c
 - Criação e manutenção de **APIs RESTful**  
 - Sistemas de gestão (ERP, financeiro, educacional)  
 - **Otimização de processos** e automações  
+- **Liderança Técnica (Tech Lead)** em times de desenvolvimento  
+- **Gestão de Projetos** de software com foco em eficiência e resultados  
+
 
 ---
 
