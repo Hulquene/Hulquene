@@ -1,11 +1,7 @@
-<h1 align="center">👋 Olá, sou o Hulquene Roberto A. Ngola</h1>
-<h3 align="center">💻 Desenvolvedor de Software | Fundador da <a href="https://okutonda.com">Okutonda</a> | Entusiasta de Soluções Tecnológicas</h3>
-
-<!-- Texto animado -->
+<!-- Texto animado com nome e status -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF72E&center=true&vCenter=true&width=600&lines=Discipline+%3E+Motivation;Practice+makes+perfect;Transformando+ideias+em+soluções+digitais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Hulquene+Roberto+A.+Ngola;💻+Senior+Software+Engineer;🚀+Tech+Lead+%7C+Founder+da+Okutonda" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🚀 Sobre Mim  
