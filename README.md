@@ -49,7 +49,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em c
   <img src="https://skillicons.dev/icons?i=idea,androidstudio" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48"/> <!-- pgAdmin -->
   <img src="https://cdn.simpleicons.org/apache/D22128" width="48" height="48"/> <!-- Apache -->
-  
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48"/> <!-- MySQL -->
 </p>
 
 ---
