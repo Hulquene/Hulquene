@@ -35,7 +35,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em c
 
 ### Linguagens & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,django,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,django,js,react,nextjs,tailwind,bootstrap,flutter" />
 </p>
 
 ### Bancos de Dados  
