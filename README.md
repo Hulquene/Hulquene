@@ -45,8 +45,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em c
 
 ### Ferramentas & Tecnologias  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=netbeans,idea,androidstudio" />
 </p>
 
 ---
