@@ -41,6 +41,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco está em c
 ### Bancos de Dados  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48"/> <!-- MySQL -->
 </p>
 
 ### Ferramentas & Tecnologias  
